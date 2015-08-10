@@ -1,3 +1,7 @@
 Pelatihan Java
 
 Tutorial GIT
+
+informasi tambahan
+
+dalam konten
